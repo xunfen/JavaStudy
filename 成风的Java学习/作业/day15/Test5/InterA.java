@@ -1,0 +1,3 @@
+interface InterA {
+    void showA();
+}

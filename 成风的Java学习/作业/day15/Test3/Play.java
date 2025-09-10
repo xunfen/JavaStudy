@@ -1,0 +1,5 @@
+package Test3;
+
+public interface Play {
+    public abstract void playGame();
+}
