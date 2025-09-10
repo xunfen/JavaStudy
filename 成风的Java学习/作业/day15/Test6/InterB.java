@@ -1,0 +1,3 @@
+interface InterB {
+    void showB();
+}
